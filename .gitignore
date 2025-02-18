@@ -1,0 +1,14 @@
+# Ignore vendor directory
+/vendor/
+
+# Ignore Composer's lock file
+composer.lock
+
+# Ignore IDE files
+*.sublime-project
+*.sublime-workspace
+
+# Ignore environment variables
+.env
+.env.local
+.env.*.local
